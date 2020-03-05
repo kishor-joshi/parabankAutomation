@@ -1,0 +1,71 @@
+[ {
+  "uid" : "a3e044d57d7963dd",
+  "name" : "should show error message for not matched confirm password",
+  "time" : {
+    "start" : 1583402313648,
+    "stop" : 1583402315200,
+    "duration" : 1552
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c72e2f14bbc6dbb8",
+  "name" : "fill registration page and validation successfull registration page",
+  "time" : {
+    "start" : 1583402318984,
+    "stop" : 1583402328015,
+    "duration" : 9031
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "140f6256d316c728",
+  "name" : "should validate title",
+  "time" : {
+    "start" : 1583402309695,
+    "stop" : 1583402310152,
+    "duration" : 457
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "485cc8f0c4db5afc",
+  "name" : "should not show error message for entered first name field",
+  "time" : {
+    "start" : 1583402315201,
+    "stop" : 1583402317882,
+    "duration" : 2681
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b3b88e79a13bdcb",
+  "name" : "should show error message for empty phone number field",
+  "time" : {
+    "start" : 1583402317882,
+    "stop" : 1583402318984,
+    "duration" : 1102
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7e6dea11ff0874a",
+  "name" : "should click on registration link",
+  "time" : {
+    "start" : 1583402310152,
+    "stop" : 1583402312373,
+    "duration" : 2221
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4c211eb14c0cec3",
+  "name" : "should show error message at firstName and last for empty registration form submisson",
+  "time" : {
+    "start" : 1583402312373,
+    "stop" : 1583402313648,
+    "duration" : 1275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,62 @@
+{
+  "uid" : "140f6256d316c728",
+  "name" : "should validate title",
+  "fullName" : "parabank website automation.should validate title",
+  "historyId" : "a38cfc314523319b74fe202560f8caff",
+  "time" : {
+    "start" : 1583402309695,
+    "stop" : 1583402310152,
+    "duration" : 457
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bb6bdf50ceaa21a1",
+      "name" : "Screenshot",
+      "source" : "bb6bdf50ceaa21a1.png",
+      "type" : "image/png",
+      "size" : 221166
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "parabank website automation"
+  }, {
+    "name" : "testClass",
+    "value" : "parabank website automation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should validate title"
+  }, {
+    "name" : "package",
+    "value" : "parabank website automation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "140f6256d316c728.json",
+  "parameterValues" : [ ]
+}

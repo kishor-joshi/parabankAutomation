@@ -1,0 +1,62 @@
+{
+  "uid" : "a4c211eb14c0cec3",
+  "name" : "should show error message at firstName and last for empty registration form submisson",
+  "fullName" : "parabank website automation.should show error message at firstName and last for empty registration form submisson",
+  "historyId" : "ab5ea3e81982414e5021dd7f22de671e",
+  "time" : {
+    "start" : 1583402312373,
+    "stop" : 1583402313648,
+    "duration" : 1275
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "71fff8ea027d9c75",
+      "name" : "Screenshot",
+      "source" : "71fff8ea027d9c75.png",
+      "type" : "image/png",
+      "size" : 128462
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "parabank website automation"
+  }, {
+    "name" : "testClass",
+    "value" : "parabank website automation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should show error message at firstName and last for empty registration form submisson"
+  }, {
+    "name" : "package",
+    "value" : "parabank website automation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a4c211eb14c0cec3.json",
+  "parameterValues" : [ ]
+}

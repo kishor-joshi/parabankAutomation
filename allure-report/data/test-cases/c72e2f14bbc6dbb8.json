@@ -1,0 +1,62 @@
+{
+  "uid" : "c72e2f14bbc6dbb8",
+  "name" : "fill registration page and validation successfull registration page",
+  "fullName" : "parabank website automation.fill registration page and validation successfull registration page",
+  "historyId" : "9c5cc738ce6e3032a7bea9ae6fd9253e",
+  "time" : {
+    "start" : 1583402318984,
+    "stop" : 1583402328015,
+    "duration" : 9031
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "205cc5522416b7ab",
+      "name" : "Screenshot",
+      "source" : "205cc5522416b7ab.png",
+      "type" : "image/png",
+      "size" : 117119
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "parabank website automation"
+  }, {
+    "name" : "testClass",
+    "value" : "parabank website automation"
+  }, {
+    "name" : "testMethod",
+    "value" : "fill registration page and validation successfull registration page"
+  }, {
+    "name" : "package",
+    "value" : "parabank website automation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c72e2f14bbc6dbb8.json",
+  "parameterValues" : [ ]
+}

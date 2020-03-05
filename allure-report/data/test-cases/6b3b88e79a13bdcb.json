@@ -1,0 +1,70 @@
+{
+  "uid" : "6b3b88e79a13bdcb",
+  "name" : "should show error message for empty phone number field",
+  "fullName" : "parabank website automation.should show error message for empty phone number field",
+  "historyId" : "89f54e325301838f451d68cad9d0dbc5",
+  "time" : {
+    "start" : 1583402317882,
+    "stop" : 1583402318984,
+    "duration" : 1102
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected true to be false.",
+  "statusTrace" : "Error: Failed expectation\n                    at ValidationHelper.validateBoolean (C:\\Users\\kishor.joshi\\Desktop\\protractor\\parabankWebsiteAutomation\\dist\\out-tsc\\helper\\validationHelper.js:10:41)\n                    at C:\\Users\\kishor.joshi\\Desktop\\protractor\\parabankWebsiteAutomation\\dist\\out-tsc\\spec\\spec.js:63:30\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\kishor.joshi\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\kishor.joshi\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\kishor.joshi\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\kishor.joshi\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\kishor.joshi\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected true to be false.",
+    "statusTrace" : "Error: Failed expectation\n                    at ValidationHelper.validateBoolean (C:\\Users\\kishor.joshi\\Desktop\\protractor\\parabankWebsiteAutomation\\dist\\out-tsc\\helper\\validationHelper.js:10:41)\n                    at C:\\Users\\kishor.joshi\\Desktop\\protractor\\parabankWebsiteAutomation\\dist\\out-tsc\\spec\\spec.js:63:30\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\kishor.joshi\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\kishor.joshi\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\kishor.joshi\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\kishor.joshi\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\kishor.joshi\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5795133e6b80faa7",
+      "name" : "Screenshot",
+      "source" : "5795133e6b80faa7.png",
+      "type" : "image/png",
+      "size" : 127336
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "parabank website automation"
+  }, {
+    "name" : "testClass",
+    "value" : "parabank website automation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should show error message for empty phone number field"
+  }, {
+    "name" : "package",
+    "value" : "parabank website automation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "6b3b88e79a13bdcb.json",
+  "parameterValues" : [ ]
+}

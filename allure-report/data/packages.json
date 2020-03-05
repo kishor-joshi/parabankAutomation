@@ -1,0 +1,100 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "parabank website automation",
+    "children" : [ {
+      "name" : "should validate title",
+      "uid" : "140f6256d316c728",
+      "parentUid" : "d39be9b642f8ea8a754d94e51a3ea019",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583402309695,
+        "stop" : 1583402310152,
+        "duration" : 457
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should click on registration link",
+      "uid" : "b7e6dea11ff0874a",
+      "parentUid" : "d39be9b642f8ea8a754d94e51a3ea019",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583402310152,
+        "stop" : 1583402312373,
+        "duration" : 2221
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should show error message at firstName and last for empty registration form submisson",
+      "uid" : "a4c211eb14c0cec3",
+      "parentUid" : "d39be9b642f8ea8a754d94e51a3ea019",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583402312373,
+        "stop" : 1583402313648,
+        "duration" : 1275
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should show error message for not matched confirm password",
+      "uid" : "a3e044d57d7963dd",
+      "parentUid" : "d39be9b642f8ea8a754d94e51a3ea019",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583402313648,
+        "stop" : 1583402315200,
+        "duration" : 1552
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should not show error message for entered first name field",
+      "uid" : "485cc8f0c4db5afc",
+      "parentUid" : "d39be9b642f8ea8a754d94e51a3ea019",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583402315201,
+        "stop" : 1583402317882,
+        "duration" : 2681
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should show error message for empty phone number field",
+      "uid" : "6b3b88e79a13bdcb",
+      "parentUid" : "d39be9b642f8ea8a754d94e51a3ea019",
+      "status" : "failed",
+      "time" : {
+        "start" : 1583402317882,
+        "stop" : 1583402318984,
+        "duration" : 1102
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "fill registration page and validation successfull registration page",
+      "uid" : "c72e2f14bbc6dbb8",
+      "parentUid" : "d39be9b642f8ea8a754d94e51a3ea019",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583402318984,
+        "stop" : 1583402328015,
+        "duration" : 9031
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d39be9b642f8ea8a754d94e51a3ea019"
+  } ]
+}

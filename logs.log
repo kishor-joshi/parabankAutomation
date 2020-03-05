@@ -1,0 +1,33 @@
+[2020-03-05T17:21:17.815] [DEBUG] default - navigated to url
+[2020-03-05T17:21:27.729] [DEBUG] default - clicked on element #loginPanel>p:nth-child(3)>a
+[2020-03-05T17:21:29.091] [DEBUG] default - clicked on element input[value='Register']
+[2020-03-05T17:21:29.947] [DEBUG] default - Element's text is: First name is required.
+[2020-03-05T17:21:29.963] [DEBUG] default - actual text matched with expected:  First name is required.
+[2020-03-05T17:21:30.064] [DEBUG] default - Element's text is: Last name is required.
+[2020-03-05T17:21:30.088] [DEBUG] default - actual text matched with expected:  Last name is required.
+[2020-03-05T17:21:30.589] [DEBUG] default - send text is: 12345
+[2020-03-05T17:21:30.600] [DEBUG] default - send text is: zxcv
+[2020-03-05T17:21:30.605] [DEBUG] default - clicked on element input[value='Register']
+[2020-03-05T17:21:31.896] [DEBUG] default - Element's text is: Passwords did not match.
+[2020-03-05T17:21:31.933] [DEBUG] default - actual text matched with expected:  Passwords did not match.
+[2020-03-05T17:21:32.401] [DEBUG] default - send text is: ramesh
+[2020-03-05T17:21:32.416] [DEBUG] default - clicked on element input[value='Register']
+[2020-03-05T17:21:32.409] [DEBUG] default - send text is: pavar
+[2020-03-05T17:21:34.212] [DEBUG] default - element present behaviour passed:  false
+[2020-03-05T17:21:34.760] [DEBUG] default - clicked on element input[value='Register']
+[2020-03-05T17:21:36.257] [DEBUG] default - element present behaviour passed:  true
+[2020-03-05T17:21:36.688] [DEBUG] default - send text is: ramesh
+[2020-03-05T17:21:36.695] [DEBUG] default - send text is: pavar
+[2020-03-05T17:21:36.707] [DEBUG] default - send text is: Hi-tech city
+[2020-03-05T17:21:36.712] [DEBUG] default - send text is: Hyderabad
+[2020-03-05T17:21:36.717] [DEBUG] default - send text is: Telangana
+[2020-03-05T17:21:36.761] [DEBUG] default - send text is: 500089
+[2020-03-05T17:21:36.799] [DEBUG] default - send text is: 9654873490
+[2020-03-05T17:21:36.821] [DEBUG] default - send text is: 7849384
+[2020-03-05T17:21:36.824] [DEBUG] default - send text is: ramesh20
+[2020-03-05T17:21:36.831] [DEBUG] default - send text is: 12345
+[2020-03-05T17:21:36.858] [DEBUG] default - send text is: 12345
+[2020-03-05T17:21:36.865] [DEBUG] default - clicked on element input[value='Register']
+[2020-03-05T17:21:40.617] [DEBUG] default - navigated registered user page
+[2020-03-05T17:21:40.809] [DEBUG] default - Element's text is: Your account was created successfully. You are now logged in.
+[2020-03-05T17:21:40.839] [DEBUG] default - actual text matched with expected:  Your account was created successfully. You are now logged in.

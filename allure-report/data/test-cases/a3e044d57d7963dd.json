@@ -1,0 +1,62 @@
+{
+  "uid" : "a3e044d57d7963dd",
+  "name" : "should show error message for not matched confirm password",
+  "fullName" : "parabank website automation.should show error message for not matched confirm password",
+  "historyId" : "84a13a68931327fa8b8529403ef9f85d",
+  "time" : {
+    "start" : 1583402313648,
+    "stop" : 1583402315200,
+    "duration" : 1552
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7468ac0bf78ac32c",
+      "name" : "Screenshot",
+      "source" : "7468ac0bf78ac32c.png",
+      "type" : "image/png",
+      "size" : 126845
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "parabank website automation"
+  }, {
+    "name" : "testClass",
+    "value" : "parabank website automation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should show error message for not matched confirm password"
+  }, {
+    "name" : "package",
+    "value" : "parabank website automation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a3e044d57d7963dd.json",
+  "parameterValues" : [ ]
+}
