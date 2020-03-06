@@ -2,7 +2,7 @@ exports.config = {
     framework: 'jasmine',
     directConnect: true,
     seleniumAddress: 'http://localhost:4444/wd/hub',
-    specs: ['dist/out-tsc/spec/spec.js'],
+    specs: ['dist/out-tsc/spec/registrationPage.spec.js'],
     capabilities: {
         browserName: 'chrome'
     },

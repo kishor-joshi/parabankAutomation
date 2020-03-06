@@ -1,0 +1,67 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1583479545258' stop='1583479581131'>
+    <name>parabank website registration page automation</name>
+    <title>parabank website registration page automation</title>
+    <test-cases>
+        <test-case start='1583479560319' status='passed' stop='1583479561576'>
+            <name>should validate registration page title</name>
+            <title>should validate registration page title</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b22a60aa-c1c6-480c-8658-0dc12d2037c5-attachment.png' type='image/png' size='221159'/>
+            </attachments>
+        </test-case>
+        <test-case start='1583479561576' status='passed' stop='1583479565583'>
+            <name>validate registration link functionality</name>
+            <title>validate registration link functionality</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8bcfdc8e-d480-4779-801b-92955b887a39-attachment.png' type='image/png' size='115479'/>
+            </attachments>
+        </test-case>
+        <test-case start='1583479565583' status='passed' stop='1583479571229'>
+            <name>Validate  error message functionality of firstName and lastName</name>
+            <title>Validate  error message functionality of firstName and lastName</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4d522ac2-6602-446c-903c-37fe7b7134df-attachment.png' type='image/png' size='126846'/>
+            </attachments>
+        </test-case>
+        <test-case start='1583479571229' status='passed' stop='1583479574151'>
+            <name>varify password functionality for mismatched password with confirm password</name>
+            <title>varify password functionality for mismatched password with confirm password</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='30d9da4c-d512-4616-8966-759532d2df05-attachment.png' type='image/png' size='125021'/>
+            </attachments>
+        </test-case>
+        <test-case start='1583479574151' status='passed' stop='1583479576695'>
+            <name>Varify error message functionality of first name when first name is filled</name>
+            <title>Varify error message functionality of first name when first name is filled</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c93945fd-5e98-4dc8-adea-e6b4531f9465-attachment.png' type='image/png' size='125599'/>
+            </attachments>
+        </test-case>
+        <test-case start='1583479576695' status='passed' stop='1583479581130'>
+            <name>fill registration page and validation successfull registration page</name>
+            <title>fill registration page and validation successfull registration page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='283d565f-26ac-4e8e-8dff-3a9d540287e6-attachment.png' type='image/png' size='117165'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

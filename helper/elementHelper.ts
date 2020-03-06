@@ -9,7 +9,7 @@ export class ElementHelper {
         //   var textData: string;
         return presentElement.getText().then(function (text: string) {
             console.log(text)
-            log4jsConfig.log().debug("Element's text is: " + text);
+            // log4jsConfig.log().debug("Element's text is: " + text);
 
             return text;
         })
@@ -19,12 +19,12 @@ export class ElementHelper {
     clickOnElement(locator: string, locatorType: string) {
         if (locatorType == 'css') {
             element(by.css(locator)).click();
-            log4jsConfig.log().debug('clicked on element', locator);
+            //   log4jsConfig.log().debug('clicked on element', locator);
 
         }
         else if (locatorType == 'id') {
             element(by.id(locator)).click();
-            log4jsConfig.log().debug('clicked on element', locator);
+            //log4jsConfig.log().debug('clicked on element', locator);
 
         }
     }
@@ -32,7 +32,7 @@ export class ElementHelper {
 
     sendData(locator: string, text: string | number, locatorType: string) {
         var presentElement: ElementFinder = this.getElement(locator, locatorType);
-        log4jsConfig.log().debug("send text is: " + text);
+        // log4jsConfig.log().debug("send text is: " + text);
 
         presentElement.clear().then(function () {
             presentElement.sendKeys(text);
